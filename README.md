@@ -7,4 +7,12 @@ OpenCV: Open Source Computer Vision Library. Powerful tools for image and video 
 * Hide Channel
 * Slide show
 * Image in one window
-* Display the same image in all four quadrants 
+* Display the same image in all four quadrants
+* Change file extension
+* ROI
+* Merge image
+* Histogram Equalisation
+* Contrast Stretching
+* Gaussian Blur
+* Working with animated image
+* Convert .gif to .bmp & vice versa 
