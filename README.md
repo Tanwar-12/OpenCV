@@ -16,3 +16,24 @@ OpenCV: Open Source Computer Vision Library. Powerful tools for image and video 
 * Gaussian Blur
 * Working with animated image
 * Convert .gif to .bmp & vice versa 
+## [Image Analysis ](https://github.com/Tanwar-12/OpenCV/tree/main/Image%20Analysis%20%26%20Processing)
+
+* Edge Detection
+* Overlay an image on another image
+* Overlaying a non alpha image
+* Create transparent png images with pillow
+* Resizing the images
+* Eroding an image
+* Blurring an image
+* Create Border around images
+* Grayscaling of images
+* Scaling an image
+* Rotating images
+* Shifting images
+* Edge detection
+* Erosion of images
+* Dilation of images
+* Analyze an image using histogram
+* Histogram Equalisation
+* Simple Thresholding
+* 
