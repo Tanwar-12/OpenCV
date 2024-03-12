@@ -6,4 +6,5 @@ OpenCV: Open Source Computer Vision Library. Powerful tools for image and video 
 * Change the image color
 * Hide Channel
 * Slide show
-* Image in one window 
+* Image in one window
+* Display the same image in all four quadrants 
