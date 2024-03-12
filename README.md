@@ -22,6 +22,7 @@ OpenCV: Open Source Computer Vision Library. Powerful tools for image and video 
 * Overlay an image on another image
 * Overlaying a non alpha image
 * Create transparent png images with pillow
+  ## Image Processing ()
 * Resizing the images
 * Eroding an image
 * Blurring an image
@@ -36,4 +37,21 @@ OpenCV: Open Source Computer Vision Library. Powerful tools for image and video 
 * Analyze an image using histogram
 * Histogram Equalisation
 * Simple Thresholding
-* 
+* Adaptive Thresholding
+* Otsu Thresholding
+* Segmentation using thresholding
+* Convert an image from one Color space to another
+* Filter color
+* Denoising of colored images
+* Manipulate the pixels value of an image
+* Intensity Transformation Operations on images
+* Image Enchancement techniques
+* 1.ImagesOps.equalize techniques
+* 2.Image.enhance.Brightness & Sharpness method
+* Working with animated image
+* Find co-ordinates of contours
+* Image Inpainting
+* Image Registration
+* Intensity Transformation operation on images
+* Foreground extraction in an image using Grabcut Algorithm
+* Foreground Extraction in an image using Grabcut Algorithm 
