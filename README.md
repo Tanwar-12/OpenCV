@@ -53,5 +53,7 @@ OpenCV: Open Source Computer Vision Library. Powerful tools for image and video 
 * Image Inpainting
 * Image Registration
 * Intensity Transformation operation on images
+* Background Subtraction in an Image using Concept of Running Average
+*  Background Subtraction using Opencv
 * Foreground extraction in an image using Grabcut Algorithm
 * Foreground Extraction in an image using Grabcut Algorithm 
