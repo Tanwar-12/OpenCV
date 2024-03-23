@@ -58,3 +58,10 @@ OpenCV: Open Source Computer Vision Library. Powerful tools for image and video 
 * Foreground extraction in an image using Grabcut Algorithm
 * Foreground Extraction in an image using Grabcut Algorithm 
 ## [Working with Images - Drawing Functions](https://github.com/Tanwar-12/OpenCV/tree/main/Working%20with%20Images%20-%20Drawing%20Functions)
+* cv2.line() method
+* cv2.arrowedLine() method
+* cv2.ellipse() method
+* cv2.circle() method
+* cv2.rectangle() method
+* cv2.putText() method
+* Find and Draw Contours using OpenCV 
