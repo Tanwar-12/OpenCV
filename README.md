@@ -57,3 +57,4 @@ OpenCV: Open Source Computer Vision Library. Powerful tools for image and video 
 *  Background Subtraction using Opencv
 * Foreground extraction in an image using Grabcut Algorithm
 * Foreground Extraction in an image using Grabcut Algorithm 
+## [Working with Images - Drawing Functions]()
