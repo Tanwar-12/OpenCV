@@ -1,5 +1,5 @@
 OpenCV: Open Source Computer Vision Library. Powerful tools for image and video processing. Enhance vision.
-# TOPICS COMPLETED
+# 𝐓𝐎𝐏𝐈𝐂𝐒 𝐂𝐎𝐌𝐏𝐋𝐄𝐓𝐄𝐃
 ## [Basics of Opencv](https://github.com/Tanwar-12/OpenCV/tree/main/Basics%20of%20Image%20using%20OpenCV)
 * How to Read an Image using opencv
 * Show Image
